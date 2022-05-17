@@ -1,0 +1,95 @@
+body{
+background-color: #aca23c;
+text-align:justify;
+}
+h1{
+	text-align:center;
+	text-shadow: 0 4px 4px  #ffffff;
+	
+}
+div{
+	
+	
+}
+.menu{
+color:white;
+border-style:solid;
+border-width:2px;
+border-color:white;
+padding: 2px 15px;
+margin: 1px 20px;
+text-decoration: none;
+background-color: #aca23c;
+}
+th{
+background-color: #554d00;
+color:white;
+margin: 0px;
+font-family: 'Times New Roman', Times, serif;
+font-size: 25px;
+}
+
+td{
+background-color:white;
+padding: 10px;
+}
+
+
+table{
+	width: 100%;
+border-collapse: collapse;
+border-style: solid;
+border-width: 3px;
+border-color: #554d00;
+}
+img{
+
+border-style:solid;
+border-color:#554d00;
+border-width:3px;
+padding: 5px;
+background-color: #aca23c;
+position: absolute;
+margin-left: 50px;
+
+top: 70px;
+}
+.imagenderecha{
+left:45%;	
+	
+}
+
+.textotabla{
+width: 40%;
+}
+.blanquilla{
+	color:white;
+	font-weight:bold;
+	
+}
+.cursiva{
+	font-style:oblique;
+	
+}
+
+iframe{
+border-style:none;
+position: relative;
+width:85%;
+height: 750px;
+margin: auto;
+display: block;
+
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.texto{
+
+	display: block;
+	width: 85%;
+	margin: auto;
+}
